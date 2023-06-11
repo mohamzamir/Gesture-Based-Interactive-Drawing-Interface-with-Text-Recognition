@@ -12,7 +12,6 @@ Use the package manager git clone to install Order of Complexity Calculator.
 
 
 ```
-bash
 git clone https://github.com/ritessshhh/Gesture-Based-Interactive-Drawing-Interface-with-Text-Recognition
 ```
 
